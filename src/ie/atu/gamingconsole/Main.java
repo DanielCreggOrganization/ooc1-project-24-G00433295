@@ -50,8 +50,7 @@ public class Main {
             // If user selects option 3
             if (userSelection == 3) {
                 // Display total number of GamingConsole objects
-                System.out
-                        .println("Total Number of GamingConsoles: " + GamingconsoleManagerObject.totalGamingConsoles());
+                System.out.println("Total Number of GamingConsoles: " + GamingconsoleManagerObject.totalGamingConsoles());
 
                 if (userSelection == 5) {// Quit
 
